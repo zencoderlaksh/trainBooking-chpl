@@ -111,6 +111,11 @@ h2.footer-title-header {
   text-transform: uppercase;
   letter-spacing: 7px;
 }
+button.custom-button.home-btn {
+  color: black;
+  border-radius: 12px;
+  font-size: 23px;
+}
 .footer-container {
   padding: 90px 100px;
 }
